@@ -1,3 +1,3 @@
 # css-ball
 
-Ball that bounce on a cube using CSS and HTML.
+ball that bounce on a cube using css and html.
